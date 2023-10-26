@@ -1,0 +1,9 @@
+glcontext==2.5.0
+moderngl==5.8.2
+moderngl-window==2.4.5
+multipledispatch==1.0.0
+numpy==1.26.1
+Pillow==10.0.1
+pygame==2.5.2
+pyglet==2.0.9
+pyrr==0.10.3
